@@ -1,0 +1,1 @@
+{"name": "06-we-need-to-build-a-powerful-si-firebase-144230", "spec": {"port": 8000, "containers": [{"image": "", "name": "06-we-need-to-build-a-powerful-si-firebase-144230", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
